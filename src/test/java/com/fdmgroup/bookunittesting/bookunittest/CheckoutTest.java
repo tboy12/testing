@@ -3,7 +3,6 @@ package com.fdmgroup.bookunittesting.bookunittest;
 import static org.junit.Assert.*;
 
 import java.awt.print.Book;
-import java.util.ArrayList;
 
 import org.junit.Before;
 import org.junit.Test;
